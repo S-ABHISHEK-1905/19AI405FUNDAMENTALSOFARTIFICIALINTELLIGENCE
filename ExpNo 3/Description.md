@@ -1,6 +1,6 @@
 # Exp no 03 : IMPLEMENT A* SEARCH ALGORITHM FOR A GRAPH 
-## NAME : B.PAVIZHI
-## REGISTER NUMBER : 212221230077
+## NAME : S.ABHISHEK
+## REGISTER NUMBER : 212221230002
 ## AIM:
 To Implement A * Search algorithm for a Graph using Python 3.
 ## ALGORITHM: 
