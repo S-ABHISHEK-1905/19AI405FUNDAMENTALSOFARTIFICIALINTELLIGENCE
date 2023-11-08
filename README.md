@@ -15,7 +15,7 @@ You can download the Program and Execute and a Sample Screenshot can be taken an
 <li>Implement Minimax Search Algorithm </li>
 <li>Implement alpha-beta Pruning Algorithm</li>
 <li>Solve Cryptarithmetic Problem</li>
-<li>Implement Wumpus world Problem.</li>
+<li>Implement Wumpus world Problem</li>
 
  </ol>
 <br>
