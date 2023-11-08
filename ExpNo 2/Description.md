@@ -1,5 +1,5 @@
 # Exp no 02 : IMPLEMENT BREADTH FIRST SEARCH TRAVERSAL OF A GRAPH 
-## NAME : S.ABHSIHEK
+## NAME : S.ABHISHEK
 ## REGISTER NUMBER : 212221230002
 ## AIM:
 To Implement Breadth First Search Traversal of a Graph using Python 3.
