@@ -1,6 +1,6 @@
 # Exp no 07 : SOLVE CRYPT ARITHMETIC PROBLEM, A CSP(CONSTRAINT SATISFACTION PROBLEM)
-## NAME : B.PAVIZHI
-## REGISTER NUMBER : 212221230077
+## NAME : S.ABHISHEK
+## REGISTER NUMBER : 212221230002
 ## AIM:
 
    To solve Cryptarithmetic Problem,a CSP(Constraint Satisfaction Problem) using Python
