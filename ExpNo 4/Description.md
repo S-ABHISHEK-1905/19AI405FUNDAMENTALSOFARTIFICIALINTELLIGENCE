@@ -1,6 +1,6 @@
 # Exp no 04 : IMPLEMENT SIMPLE HILL CLIMBING ALGORITHM
-## NAME : B.PAVIZHI
-## REGISTER NUMBER : 212221230077
+## NAME : S.ABHISHEK
+## REGISTER NUMBER : 212221230002
 ## AIM:
 Implement Simple Hill Climbing Algorithm and Generate a String by Mutating a Single Character at each iteration.
 ## THEORY:
